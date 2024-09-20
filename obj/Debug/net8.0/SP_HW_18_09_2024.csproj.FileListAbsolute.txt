@@ -1,0 +1,14 @@
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\SystemProg\SP_HW\SP_HW_18_09_2024\bin\Debug\net8.0\SP_HW_18_09_2024.exe
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\SystemProg\SP_HW\SP_HW_18_09_2024\bin\Debug\net8.0\SP_HW_18_09_2024.deps.json
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\SystemProg\SP_HW\SP_HW_18_09_2024\bin\Debug\net8.0\SP_HW_18_09_2024.runtimeconfig.json
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\SystemProg\SP_HW\SP_HW_18_09_2024\bin\Debug\net8.0\SP_HW_18_09_2024.dll
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\SystemProg\SP_HW\SP_HW_18_09_2024\bin\Debug\net8.0\SP_HW_18_09_2024.pdb
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\SystemProg\SP_HW\SP_HW_18_09_2024\obj\Debug\net8.0\SP_HW_18_09_2024.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\SystemProg\SP_HW\SP_HW_18_09_2024\obj\Debug\net8.0\SP_HW_18_09_2024.AssemblyInfoInputs.cache
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\SystemProg\SP_HW\SP_HW_18_09_2024\obj\Debug\net8.0\SP_HW_18_09_2024.AssemblyInfo.cs
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\SystemProg\SP_HW\SP_HW_18_09_2024\obj\Debug\net8.0\SP_HW_18_09_2024.csproj.CoreCompileInputs.cache
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\SystemProg\SP_HW\SP_HW_18_09_2024\obj\Debug\net8.0\SP_HW_18_09_2024.dll
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\SystemProg\SP_HW\SP_HW_18_09_2024\obj\Debug\net8.0\refint\SP_HW_18_09_2024.dll
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\SystemProg\SP_HW\SP_HW_18_09_2024\obj\Debug\net8.0\SP_HW_18_09_2024.pdb
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\SystemProg\SP_HW\SP_HW_18_09_2024\obj\Debug\net8.0\SP_HW_18_09_2024.genruntimeconfig.cache
+D:\ЖЕНЯ\Обучение\ITStep\Lesson\2024\SystemProg\SP_HW\SP_HW_18_09_2024\obj\Debug\net8.0\ref\SP_HW_18_09_2024.dll
